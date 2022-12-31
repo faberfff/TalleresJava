@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğØ
+R
+java:S1854"7Remove this useless assignment to local variable "bfr".(İ”±ìúÿÿÿÿ
+T
+java:S1481"9Remove this unused "contadorTortaVendida" local variable.(Œ–˜Øÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "bfr" local variable.(İ”±ìúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Æµıúÿÿÿÿ

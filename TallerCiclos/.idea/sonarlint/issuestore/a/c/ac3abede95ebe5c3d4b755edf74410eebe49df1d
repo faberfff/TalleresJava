@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(σ–Π‘ϊÿÿÿÿ
+p
+java:S12017"UEither override Object.equals(Object), or rename the method to prevent any confusion.(¶Αψÿÿÿÿ
+W
+java:S11268"AReplace this if-then-else statement by a single return statement.(ΜιρΗ
+K
+java:S1128"0Remove this unused import 'Ejercicio6.Contacto'.(·§Χώÿÿÿÿ

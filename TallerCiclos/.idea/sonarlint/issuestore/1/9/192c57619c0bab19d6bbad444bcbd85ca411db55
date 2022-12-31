@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼—ùÿÿÿÿ
+
+java:S4165"dRemove this useless assignment; "nombre" already holds the assigned value along all execution paths.(´ú´Üøÿÿÿÿ
+p
+java:S12011"UEither override Object.equals(Object), or rename the method to prevent any confusion.(öºò¦úÿÿÿÿ
+\
+java:S11262"AReplace this if-then-else statement by a single return statement.(ıù’·ùÿÿÿÿ
+J
+java:S1656"/Remove or correct this useless self-assignment.(´ú´Üøÿÿÿÿ

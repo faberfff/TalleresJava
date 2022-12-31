@@ -1,0 +1,27 @@
+
+s
+java:S1192"]Define a constant instead of duplicating this literal "Digita el nombre del titular" 3 times.(žÓ¢”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¬ôèþÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(îËö“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±¶¥úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žÓ¢”
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡îµ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(žÓ¢”
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(²êÛÂùÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(žÓ¢”
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Œû¥Œùÿÿÿÿ
+P
+java:S1854G":Remove this useless assignment to local variable "opcion".(†¾³’
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ì––ú
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(Ø€ï(
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(°”£“þÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÔÝÒâøÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(á«ú¤ûÿÿÿÿ
+7	java:S131X""Add a default case to this switch.(°€àâ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ

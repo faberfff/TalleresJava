@@ -1,0 +1,11 @@
+package Ejercicio3;
+
+public class Main3 {
+
+    public static void main(String[] args) {
+
+        IrFiesta irFiesta = new IrFiesta();
+        irFiesta.evaluarIngreso();
+
+    }
+}

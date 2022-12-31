@@ -1,0 +1,18 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À±›åÿÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¸ÑÑèşÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(”Å³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ–¬ªşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²
+‡
+java:S1130#"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ì‚»µøÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(“µíä
+N	java:S106("9Replace this use of System.out or System.err by a logger.(³ï™ö
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(×•œ²
+‚
+java:S1130."lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(è±²›
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(‘œ•üÿÿÿÿ
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(³ï™ö8’«ıÒÌ0

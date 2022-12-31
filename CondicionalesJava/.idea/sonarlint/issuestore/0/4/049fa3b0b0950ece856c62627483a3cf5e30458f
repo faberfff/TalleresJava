@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÊ²ý
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–œõ­8½™ÈŒË0
+w
+java:S1450"URemove the "altura" field and declare it as a local variable in the relevant methods.(ÇºÖ¤ùÿÿÿÿ8½™ÈŒË0
+p
+java:S1450
+"SRemove the "base" field and declare it as a local variable in the relevant methods.(“ƒêµ8¾™ÈŒË0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ê±ÅŠþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ýêó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œçˆò

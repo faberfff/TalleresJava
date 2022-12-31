@@ -1,0 +1,33 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Åõ
+t
+java:S1450	"_Remove the "cantidadProducto" field and declare it as a local variable in the relevant methods.(Á÷
+x
+java:S1450"]Remove the "productoCompra" field and declare it as a local variable in the relevant methods.(ÏÒÅøÿÿÿÿ
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(Ù³ÄÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä˜í
+P
+java:S1854":Remove this useless assignment to local variable "opcion".(†¾³’
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ºÉ£ª
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ö£•´úÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ØÂ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(á‹«Çûÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(á«ú¤ûÿÿÿÿ
+m
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(îÃ£ùÿÿÿÿ
+7	java:S131/""Add a default case to this switch.(°€àâ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¯—‹
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(½Åë€
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(¸ƒ›û
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(£¢ªˆúÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(”¼‰úÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(…•¤ÿÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(Øƒ§˜ıÿÿÿÿ
+=
+java:S1125W"'Remove the unnecessary boolean literal.(‰§½ı
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(’ €

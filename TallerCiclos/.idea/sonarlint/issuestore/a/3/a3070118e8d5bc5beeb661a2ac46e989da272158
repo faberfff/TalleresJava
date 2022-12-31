@@ -1,0 +1,30 @@
+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó–Ğ‘úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÎÅ™
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(Õ–Íúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(™ÿÈİøÿÿÿÿ
+M	java:S106#"9Replace this use of System.out or System.err by a logger.(Û„–
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÖİØçúÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(äş„
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÏÚòš
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(¥œÂl
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Šşé
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(±Ğ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Êñ³©
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Ó®Ú¼
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ó–Ïü
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(™õ¦¨şÿÿÿÿ
+b
+java:S2677^"LUse or store the value returned from "readLine" instead of throwing it away.(ƒ‰¬„
+R
+java:S1128"0Remove this unused import 'Ejercicio6.Contacto'.(·§×şÿÿÿÿ8×Î©¬Ì0

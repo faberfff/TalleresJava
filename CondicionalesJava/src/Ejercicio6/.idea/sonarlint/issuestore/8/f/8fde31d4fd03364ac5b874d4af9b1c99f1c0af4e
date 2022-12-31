@@ -1,0 +1,43 @@
+
+|
+java:S1319â"fThe type of "listas" should be an interface such as "List" rather than the implementation "ArrayList".(ƒ˜Ó<
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼—ùÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(«³²²
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(““•ê
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ë‹‰æùÿÿÿÿ
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(´àþt
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(ºûäºÿÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+M	java:S106s"9Replace this use of System.out or System.err by a logger.(ŸÞð+
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(éÖ¦ üÿÿÿÿ
+N	java:S106v"9Replace this use of System.out or System.err by a logger.(µŠ±É
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(æ”ÿ®
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106|"9Replace this use of System.out or System.err by a logger.(Ú¥ÁÏÿÿÿÿÿ
+N	java:S106‚"9Replace this use of System.out or System.err by a logger.(ð©»H
+N	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(žÍá
+O	java:S106Ž"9Replace this use of System.out or System.err by a logger.(§²¢£
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(Ž‰ËÖ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(¤ïÑŸøÿÿÿÿ
+O	java:S106¡"9Replace this use of System.out or System.err by a logger.(¿ê”ð
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(ù“……
+N	java:S106­"9Replace this use of System.out or System.err by a logger.(„îž_
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(˜¿úòúÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(ƒºðÂþÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(°ßºÈþÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(ª·Û±ûÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(”§ñœüÿÿÿÿ
+Q
+java:S1854Ø":Remove this useless assignment to local variable "numero".(†®´÷
+Q
+java:S1854Ø":Remove this useless assignment to local variable "numero".(†®´÷
+W
+java:S1117Ò";Rename "entrada" which hides the field declared at line 20.(þ£’Òûÿÿÿÿ
+Q
+java:S2123Ø":Remove this increment or correct the code not to waste it.(†®´÷
+C
+java:S1172â"-Remove this unused method parameter "listas".(ƒ˜Ó<
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(¡ü¯¸

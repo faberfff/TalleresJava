@@ -1,0 +1,35 @@
+
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğØ
+O
+java:S1854"9Remove this useless assignment to local variable "users".(àÕÃì
+F
+java:S1481"+Remove this unused "aprobo" local variable.(í³í¿øÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(àÕÃì
+@
+java:S1481"*Remove this unused "users" local variable.(àÕÃì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î¹Æö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(”˜Ö“
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¡¯‚øÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ˆ®„
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÖİØçúÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Šæ‘à
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ş¨İˆøÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ÊùÀŸúÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(àÀ½Ôúÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ºØ†
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(Ó–Ïü
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(™õ¦¨şÿÿÿÿ
+b
+java:S2677Y"LUse or store the value returned from "readLine" instead of throwing it away.(ƒ‰¬„
+K
+java:S1128"0Remove this unused import 'Ejercicio7.Vehiculo'.(¸ÑÉÊûÿÿÿÿ

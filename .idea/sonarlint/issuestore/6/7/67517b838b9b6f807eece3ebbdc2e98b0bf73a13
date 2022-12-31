@@ -1,0 +1,13 @@
+
+e
+java:S1192""JDefine a constant instead of duplicating this literal "Senor(a) " 4 times.(˜© ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó–Ğ‘úÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æòæÌùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Àí¶ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„¶ñ²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô÷úô
+S	java:S106""9Replace this use of System.out or System.err by a logger.(˜© ûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(§è³´şÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(™Á¥úÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¤¦Ó

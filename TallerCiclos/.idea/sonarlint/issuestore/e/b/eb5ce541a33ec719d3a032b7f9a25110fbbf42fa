@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼—ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïäÜ€øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØíÃıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Úú²p
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó¿¨’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾€¹úÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÖİØçúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÔÓûàşÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(²ÒÉ™şÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ê¤Œ¨úÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ã§‚
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ä™ò©8Êü”¤Ì0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8á–¤Ì0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Î°—¤Ì0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8Ûê—¤Ì0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ÔÓûàşÿÿÿÿ8Ğ˜¤Ì0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¶™¤Ì0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(ğÑ—£úÿÿÿÿ8˜ü¤¤Ì0
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(™õ¦¨şÿÿÿÿ8£™¦¤Ì0
+b
+java:S2677Z"LUse or store the value returned from "readLine" instead of throwing it away.(ƒ‰¬„

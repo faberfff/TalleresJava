@@ -1,0 +1,23 @@
+
+a
+java:S1301""KReplace this "switch" statement by "if" statements to increase readability.(°€àâ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Åõ
+U
+java:S1854":Remove this useless assignment to local variable "opcion".(ùÒê¤ùÿÿÿÿ
+U
+java:S1117":Rename "opcion" which hides the field declared at line 10.(ùÒê¤ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ•Ûşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…ä¹³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§²õäøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¨¦êÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º÷»
+7	java:S131"""Add a default case to this switch.(°€àâ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¦Æ­Ëúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ŞÜî¯
+E
+java:S1068
+"*Remove this unused "opcion" private field.(êÜŞÒùÿÿÿÿ
+@
+java:S1068"*Remove this unused "saludo" private field.(ø±…Ò

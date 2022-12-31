@@ -1,0 +1,29 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú¢Æ¬üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼—ùÿÿÿÿ
+W
+java:S1854!"<Remove this useless assignment to local variable "atencion".(÷ìµ‚ûÿÿÿÿ
+]
+java:S1854J"BRemove this useless assignment to local variable "novedadTecnico".(Şˆƒ¡üÿÿÿÿ
+[
+java:S1854H"ERemove this useless assignment to local variable "cantidadRepuestos".(â¹îÚ
+D
+java:S1481".Remove this unused "novedadU1" local variable.(ëÕ«ï
+I
+java:S1481".Remove this unused "novedadU2" local variable.(‹ƒ““üÿÿÿÿ
+I
+java:S1481"3Remove this unused "novedadUsuario" local variable.(Ö¸ÎÍ
+I
+java:S1481"3Remove this unused "novedadTecnico" local variable.(ÌâÍ¿
+H
+java:S1481"-Remove this unused "atencion" local variable.(¬¤šúÿÿÿÿ
+K
+java:S1481"6Remove this unused "cantidadRepuestos" local variable.(˜ÿø.
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+M	java:S106("9Replace this use of System.out or System.err by a logger.(ãĞ¡:
+7	java:S131+""Add a default case to this switch.(°€àâ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(‹Áòü
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(Áòû„
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(æ·Ú¤

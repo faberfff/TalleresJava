@@ -1,0 +1,47 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğØ
+?
+java:S1197
+"*Move the array designators [] to the type.(Ğ¾š>
+?
+java:S1197"*Move the array designators [] to the type.(Èµô
+E
+java:S1197"*Move the array designators [] to the type.(âü€¾ûÿÿÿÿ
+T
+java:S1117"9Rename "torta" which hides the field declared at line 12.(²Í¼óÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡³‹‹ÿÿÿÿÿ
+V
+java:S1854(";Remove this useless assignment to local variable "cliente".(Œ¶ÙŠşÿÿÿÿ
+X
+java:S1854'"BRemove this useless assignment to local variable "tortasVendidas".(ùç«±
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Šæ‘à
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ì•è
+T
+java:S1117%"9Rename "torta" which hides the field declared at line 12.(²Í¼óÿÿÿÿÿ
+@
+java:S1197'"*Move the array designators [] to the type.(ùç«±
+X
+java:S1117'"BRename "tortasVendidas" which hides the field declared at line 15.(ùç«±
+I
+java:S1481'"3Remove this unused "tortasVendidas" local variable.(ùç«±
+E
+java:S1197("*Move the array designators [] to the type.(Œ¶ÙŠşÿÿÿÿ
+G
+java:S1481(",Remove this unused "cliente" local variable.(Œ¶ÙŠşÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¾…ıÎ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ
+P
+java:S1854;":Remove this useless assignment to local variable "opcion".(†¾³’
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ÁÄ¤âşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ÒË £øÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Å¬¸ùÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(©Œï
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(òÛÖ™ùÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(á«ú¤ûÿÿÿÿ
+7	java:S131L""Add a default case to this switch.(°€àâ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ÛàÓıÿÿÿÿ
